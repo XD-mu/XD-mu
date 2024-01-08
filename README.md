@@ -31,13 +31,16 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XD-mu/XD-mu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
+
+
+  
+  ## 📈 GitHub Stats
+  
+  ![XD-mu's GitHub stats](https://github-readme-stats.vercel.app/api?username=XD-mu&show_icons=true&theme=radical)
+  
+  
+  ## 🔥 Commit Streak
+  
+  ![XD-mu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XD-mu&theme=dark)
 </div>
 
-## 📈 GitHub Stats
-
-![XD-mu's GitHub stats](https://github-readme-stats.vercel.app/api?username=XD-mu&show_icons=true&theme=radical)
-
-
-## 🔥 Commit Streak
-
-![XD-mu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XD-mu&theme=dark)
