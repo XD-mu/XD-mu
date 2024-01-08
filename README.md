@@ -1,35 +1,13 @@
-<?php
+# Hello, I'm XD-mu! 👋
 
-namespace AshBaker;
+## 📈 GitHub Stats
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
-            ]
-        ];
-    }
+![XD-mu's GitHub stats](https://github-readme-stats.vercel.app/api?username=XD-mu&show_icons=true&theme=radical)
 
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
+## 🌟 GitHub Activity Graph
 
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
-}
+![XD-mu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=XD-mu&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)
+
+## 🔥 Commit Streak
+
+![XD-mu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XD-mu&theme=dark)
