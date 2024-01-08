@@ -30,7 +30,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XD-mu/XD-mu/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XD-mu/XD-mu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-  ![XD-mu's GitHub stats](https://github-readme-stats.vercel.app/api?username=XD-mu&show_icons=true&count_private=true&include_all_commits=true&theme=THEME_NAME)
+  [XD-mu's GitHub stats](https://github-readme-stats.vercel.app/api?username=XD-mu&show_icons=true&count_private=true&include_all_commits=true&theme=THEME_NAME)
 
 
 
