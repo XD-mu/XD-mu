@@ -6,7 +6,7 @@
 
 ## 🌟 GitHub Activity Graph
 
-![XD-mu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=XD-mu&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)
+[![XD-mu's github activity graph](https://activity-graph.herokuapp.com/graph?username=XD-mu&theme=xcode)](https://github.com/XD-mu)
 
 ## 🔥 Commit Streak
 
