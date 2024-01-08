@@ -24,7 +24,6 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-  ![XD-mu's GitHub Snake Game](https://github.com/XD-mu/XD-mu/raw/output/github-contribution-grid-snake.svg)
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XD-mu/XD-mu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
